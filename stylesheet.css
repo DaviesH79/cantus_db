@@ -1,0 +1,39 @@
+body {
+	background-color: #EEE2DC;
+	#background-color: #F7F9FB;
+	border-style: inset;
+	border-width: 15px;
+	text-align: center;
+}
+
+h1 {
+    color: #123C69;
+	#color: #31708E;
+	font-family: Courier New Bold;
+    margin-left: 20px;
+}
+h2 {
+    color: #123C69;
+    #color: #5085A5;
+	font-family: Courier New Bold;
+    margin-left: 20px;
+}
+h3 {
+    #color: #687864;
+	color: #AC3B61;
+	font-family: Courier New Bold;
+    margin-left: 20px;
+}
+p {
+	margin-left: 20px;
+}
+form {
+	display: inline-block;
+	text-align: center;
+}
+ 
+map {
+        height: 400px;
+        width: 100%;
+       }
+
